@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "EpiCurve"]
+	path = EpiCurve
+	url = https://github.com/iamkdo/epicurve
+	shallow = true
+	registered = true
+[submodule "GADMTools"]
+	path = GADMTools
+	url = https://github.com/iamkdo/gadmtools
+	shallow = true
+	registered = true
