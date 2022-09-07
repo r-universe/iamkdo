@@ -8,8 +8,3 @@
 	url = https://github.com/iamkdo/epicurve
 	shallow = true
 	registered = true
-[submodule "GADMTools"]
-	path = GADMTools
-	url = https://github.com/iamkdo/gadmtools
-	shallow = true
-	registered = true

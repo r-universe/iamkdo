@@ -2,9 +2,5 @@
   {
     "package": "EpiCurve",
     "oncran": true
-  },
-  {
-    "package": "GADMTools",
-    "oncran": true
   }
 ]
